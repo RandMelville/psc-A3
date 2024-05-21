@@ -21,11 +21,11 @@ Utilização: Implementar uma interface gráfica para interação com o usuário
 5. Submeta sua solução como um pull request.
 
 ## Divisão de grupos e projetos
-+ Grupo 1: Calculadora de Notas
-+ Grupo 2: Lista de Tarefas
-+ Grupo 3: Conversor de Moedas
-+ Grupo 4: Gerador de Senhas Aleatórias:
-+ Grupo 5: Contador de Palavras
++ Grupo 1: Calculadora de Notas (Brayan, Pedro Cavalcante, Felipe Fendrich, Vinicius)
++ Grupo 2: Lista de Tarefas (Phellype, Henrique, Pedro Menegon, Kauan)
++ Grupo 3: Conversor de Moedas (Alicia, Mayara, Thomas)
++ Grupo 4: Gerador de Senhas Aleatórias (Tobias, Matheus, Pedro Henrique, Alexandre)
++ Grupo 5: Contador de Palavras (Ali Reda, Bryan, João, Samuel)
 
 ## Projetos
 1. **Calculadora de Notas:**
