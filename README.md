@@ -47,3 +47,5 @@ Criar um programa que gera senhas aleatórias com base em critérios definidos p
 5. **Contador de Palavras:**
 
 Desenvolver uma aplicação que conta o número de palavras, caracteres e linhas em um texto inserido pelo usuário. Os alunos podem criar uma interface simples onde o usuário pode inserir o texto e visualizar as estatísticas de contagem. O programa deve fornecer informações precisas e atualizadas conforme o usuário insere ou edita o texto.
+
+Criação pull request
