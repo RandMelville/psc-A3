@@ -1,7 +1,7 @@
 public class EstatisticasTexto {
 
     public static int contadorPalavras(String texto) {
-        if (texto == null  texto.isEmpty()) {
+        if (texto == null || texto.isEmpty()) {
             return 0;
         }
         String[] palavras = texto.trim().split("\s+");
@@ -16,7 +16,7 @@ public class EstatisticasTexto {
     }
 
     public static int contadorLinha(String texto) {
-        if (texto == null  texto.isEmpty()) {
+        if (texto == null || texto.isEmpty()) {
             return 0;
         }
         return texto.split("\n").length;
